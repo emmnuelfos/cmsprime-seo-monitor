@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-22",
   "rows": [
     {
       "Domain Authority": "100",
@@ -15,7 +15,7 @@
       "Backlinks": "4",
       "Country": "us",
       "First seen": "1757749478",
-      "Last seen": "1776018225"
+      "Last seen": "1781849197"
     },
     {
       "Domain Authority": "100",
@@ -301,9 +301,9 @@
       "Domain Authority": "47",
       "Domain": "wikifx.com",
       "Backlinks": "19",
-      "Country": "tr",
+      "Country": "us",
       "First seen": "1716781206",
-      "Last seen": "1781413392"
+      "Last seen": "1782120697"
     },
     {
       "Domain Authority": "46",
@@ -327,7 +327,7 @@
       "Backlinks": "87",
       "Country": "us",
       "First seen": "1722435046",
-      "Last seen": "1781474431"
+      "Last seen": "1782119031"
     },
     {
       "Domain Authority": "45",
@@ -339,11 +339,19 @@
     },
     {
       "Domain Authority": "44",
+      "Domain": "einnews.com",
+      "Backlinks": "9",
+      "Country": "",
+      "First seen": "1721290283",
+      "Last seen": "1781775133"
+    },
+    {
+      "Domain Authority": "44",
       "Domain": "investinglive.com",
       "Backlinks": "101",
       "Country": "us",
       "First seen": "1753303118",
-      "Last seen": "1781464529"
+      "Last seen": "1781794772"
     },
     {
       "Domain Authority": "44",
@@ -371,19 +379,19 @@
     },
     {
       "Domain Authority": "43",
-      "Domain": "fastbull.com",
-      "Backlinks": "2",
-      "Country": "us",
-      "First seen": "1763299701",
-      "Last seen": "1780841270"
-    },
-    {
-      "Domain Authority": "43",
       "Domain": "neverbounce.com",
       "Backlinks": "1",
       "Country": "",
       "First seen": "1775723004",
       "Last seen": "1775723004"
+    },
+    {
+      "Domain Authority": "42",
+      "Domain": "fastbull.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1763299701",
+      "Last seen": "1781741254"
     },
     {
       "Domain Authority": "42",
@@ -434,6 +442,22 @@
       "Last seen": "1766552774"
     },
     {
+      "Domain Authority": "41",
+      "Domain": "siteprice.org",
+      "Backlinks": "5",
+      "Country": "",
+      "First seen": "1765490353",
+      "Last seen": "1781775701"
+    },
+    {
+      "Domain Authority": "40",
+      "Domain": "ecoiran.com",
+      "Backlinks": "4",
+      "Country": "ir",
+      "First seen": "1761845273",
+      "Last seen": "1781633574"
+    },
+    {
       "Domain Authority": "40",
       "Domain": "fx168news.com",
       "Backlinks": "2",
@@ -453,9 +477,9 @@
       "Domain Authority": "40",
       "Domain": "newsfilecorp.com",
       "Backlinks": "7",
-      "Country": "ca",
+      "Country": "us",
       "First seen": "1760546492",
-      "Last seen": "1781425478"
+      "Last seen": "1781887697"
     },
     {
       "Domain Authority": "40",
@@ -471,15 +495,7 @@
       "Backlinks": "26",
       "Country": "gb",
       "First seen": "1758275106",
-      "Last seen": "1781070688"
-    },
-    {
-      "Domain Authority": "39",
-      "Domain": "einnews.com",
-      "Backlinks": "8",
-      "Country": "",
-      "First seen": "1749287367",
-      "Last seen": "1778047115"
+      "Last seen": "1782034528"
     },
     {
       "Domain Authority": "39",
@@ -499,27 +515,11 @@
     },
     {
       "Domain Authority": "38",
-      "Domain": "ecoiran.com",
-      "Backlinks": "4",
-      "Country": "ir",
-      "First seen": "1761845273",
-      "Last seen": "1779033393"
-    },
-    {
-      "Domain Authority": "38",
-      "Domain": "siteprice.org",
-      "Backlinks": "4",
-      "Country": "",
-      "First seen": "1765490353",
-      "Last seen": "1780852300"
-    },
-    {
-      "Domain Authority": "37",
       "Domain": "techdogs.com",
       "Backlinks": "1",
       "Country": "us",
       "First seen": "1760841155",
-      "Last seen": "1780140538"
+      "Last seen": "1781904842"
     },
     {
       "Domain Authority": "37",
@@ -543,7 +543,7 @@
       "Backlinks": "1",
       "Country": "de",
       "First seen": "1764694510",
-      "Last seen": "1779239578"
+      "Last seen": "1781715108"
     },
     {
       "Domain Authority": "35",
@@ -559,7 +559,7 @@
       "Backlinks": "1",
       "Country": "us",
       "First seen": "1765752477",
-      "Last seen": "1779422957"
+      "Last seen": "1781777466"
     },
     {
       "Domain Authority": "34",
@@ -575,7 +575,7 @@
       "Backlinks": "37",
       "Country": "",
       "First seen": "1756961794",
-      "Last seen": "1781391706"
+      "Last seen": "1781930198"
     },
     {
       "Domain Authority": "34",
@@ -599,7 +599,7 @@
       "Backlinks": "4",
       "Country": "ir",
       "First seen": "1757068874",
-      "Last seen": "1779934080"
+      "Last seen": "1782016315"
     },
     {
       "Domain Authority": "33",
@@ -631,7 +631,7 @@
       "Backlinks": "99",
       "Country": "us",
       "First seen": "1751553856",
-      "Last seen": "1781494262"
+      "Last seen": "1781906148"
     },
     {
       "Domain Authority": "32",
@@ -685,9 +685,9 @@
       "Domain Authority": "30",
       "Domain": "biyapay.com",
       "Backlinks": "17",
-      "Country": "us",
+      "Country": "hk",
       "First seen": "1761652735",
-      "Last seen": "1781403017"
+      "Last seen": "1782093335"
     },
     {
       "Domain Authority": "30",
@@ -739,6 +739,14 @@
     },
     {
       "Domain Authority": "29",
+      "Domain": "techdirectory.io",
+      "Backlinks": "2",
+      "Country": "",
+      "First seen": "1771482460",
+      "Last seen": "1781631850"
+    },
+    {
+      "Domain Authority": "29",
       "Domain": "yoomark.com",
       "Backlinks": "8",
       "Country": "",
@@ -771,6 +779,14 @@
     },
     {
       "Domain Authority": "28",
+      "Domain": "jobhop.co.uk",
+      "Backlinks": "11",
+      "Country": "gb",
+      "First seen": "1757670492",
+      "Last seen": "1781919592"
+    },
+    {
+      "Domain Authority": "28",
       "Domain": "trustfinance.com",
       "Backlinks": "1",
       "Country": "",
@@ -784,22 +800,6 @@
       "Country": "",
       "First seen": "1765623939",
       "Last seen": "1778442205"
-    },
-    {
-      "Domain Authority": "28",
-      "Domain": "zupyak.com",
-      "Backlinks": "13",
-      "Country": "",
-      "First seen": "1758700448",
-      "Last seen": "1778413437"
-    },
-    {
-      "Domain Authority": "27",
-      "Domain": "ogoing.com",
-      "Backlinks": "20",
-      "Country": "",
-      "First seen": "1756444020",
-      "Last seen": "1781483761"
     }
   ]
 }
