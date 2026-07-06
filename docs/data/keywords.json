@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-07-06",
   "rows": [
     {
       "Keyword": "cms prime",
@@ -7,7 +7,7 @@
       "Previous position": "",
       "Search Volume": "480",
       "CPC": "2.40",
-      "Traffic (%)": "84.95",
+      "Traffic (%)": "84.39",
       "URL": "https://cmsprime.com/"
     },
     {
@@ -16,7 +16,7 @@
       "Previous position": "",
       "Search Volume": "30",
       "CPC": "5.57",
-      "Traffic (%)": "5.30",
+      "Traffic (%)": "5.27",
       "URL": "https://cmsprime.com/"
     },
     {
@@ -25,7 +25,7 @@
       "Previous position": "",
       "Search Volume": "1900",
       "CPC": "3.12",
-      "Traffic (%)": "5.30",
+      "Traffic (%)": "5.27",
       "URL": "https://cmsprime.com/"
     },
     {
@@ -34,7 +34,7 @@
       "Previous position": "",
       "Search Volume": "260",
       "CPC": "1.27",
-      "Traffic (%)": "1.54",
+      "Traffic (%)": "1.53",
       "URL": "https://cmsprime.com/"
     },
     {
@@ -43,8 +43,17 @@
       "Previous position": "",
       "Search Volume": "90",
       "CPC": "0.00",
-      "Traffic (%)": "0.88",
+      "Traffic (%)": "0.87",
       "URL": "https://mycms.cmsprime.com/login"
+    },
+    {
+      "Keyword": "what is forex trading",
+      "Position": "11",
+      "Previous position": "",
+      "Search Volume": "1000",
+      "CPC": "2.90",
+      "Traffic (%)": "0.65",
+      "URL": "https://cmsprime.com/blogs/what-is-forex-trading/"
     },
     {
       "Keyword": "free forex trading books",
@@ -52,7 +61,7 @@
       "Previous position": "",
       "Search Volume": "40",
       "CPC": "0.00",
-      "Traffic (%)": "0.44",
+      "Traffic (%)": "0.43",
       "URL": "https://cmsprime.com/ebook/"
     },
     {
@@ -61,7 +70,7 @@
       "Previous position": "",
       "Search Volume": "30",
       "CPC": "5.16",
-      "Traffic (%)": "0.22",
+      "Traffic (%)": "0.21",
       "URL": "https://cmsprime.com/pamm-trading/"
     },
     {
@@ -160,6 +169,15 @@
       "Previous position": "",
       "Search Volume": "90",
       "CPC": "0.00",
+      "Traffic (%)": "0.00",
+      "URL": "https://cmsprime.com/"
+    },
+    {
+      "Keyword": "cfms",
+      "Position": "64",
+      "Previous position": "",
+      "Search Volume": "720",
+      "CPC": "2.63",
       "Traffic (%)": "0.00",
       "URL": "https://cmsprime.com/"
     },
@@ -308,13 +326,13 @@
       "URL": "https://cmsprime.com/blogs/currency-pairs/"
     },
     {
-      "Keyword": "forex market holidays",
-      "Position": "10",
+      "Keyword": "pamm",
+      "Position": "5",
       "Previous position": "",
       "Search Volume": "30",
-      "CPC": "4.32",
+      "CPC": "2.67",
       "Traffic (%)": "0.00",
-      "URL": "https://cmsprime.com/forex-holiday-schedule/"
+      "URL": "https://cmsprime.com/pamm-trading/"
     }
   ]
 }
