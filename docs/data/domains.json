@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-13",
   "rows": [
     {
       "Domain Authority": "100",
@@ -42,12 +42,12 @@
       "Last seen": "1783054983"
     },
     {
-      "Domain Authority": "89",
+      "Domain Authority": "90",
       "Domain": "linktr.ee",
-      "Backlinks": "6",
+      "Backlinks": "13",
       "Country": "us",
       "First seen": "1774127081",
-      "Last seen": "1774127081"
+      "Last seen": "1783848945"
     },
     {
       "Domain Authority": "89",
@@ -62,8 +62,8 @@
       "Domain": "amazonaws.com",
       "Backlinks": "1",
       "Country": "in",
-      "First seen": "1762735955",
-      "Last seen": "1768037925"
+      "First seen": "1751769128",
+      "Last seen": "1781228421"
     },
     {
       "Domain Authority": "72",
@@ -119,7 +119,23 @@
       "Backlinks": "3",
       "Country": "us",
       "First seen": "1769940441",
-      "Last seen": "1781372241"
+      "Last seen": "1782950971"
+    },
+    {
+      "Domain Authority": "54",
+      "Domain": "wate.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1755931231",
+      "Last seen": "1782619437"
+    },
+    {
+      "Domain Authority": "54",
+      "Domain": "wkrn.com",
+      "Backlinks": "4",
+      "Country": "us",
+      "First seen": "1754286956",
+      "Last seen": "1781572355"
     },
     {
       "Domain Authority": "52",
@@ -128,6 +144,14 @@
       "Country": "us",
       "First seen": "1762943961",
       "Last seen": "1777289083"
+    },
+    {
+      "Domain Authority": "51",
+      "Domain": "hashnode.dev",
+      "Backlinks": "10",
+      "Country": "",
+      "First seen": "1783595498",
+      "Last seen": "1783595498"
     },
     {
       "Domain Authority": "51",
@@ -199,7 +223,15 @@
       "Backlinks": "19",
       "Country": "us",
       "First seen": "1716781206",
-      "Last seen": "1783337799"
+      "Last seen": "1783925378"
+    },
+    {
+      "Domain Authority": "47",
+      "Domain": "wtaj.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1756142808",
+      "Last seen": "1781820399"
     },
     {
       "Domain Authority": "46",
@@ -223,7 +255,15 @@
       "Backlinks": "87",
       "Country": "us",
       "First seen": "1722435046",
-      "Last seen": "1783324395"
+      "Last seen": "1783458706"
+    },
+    {
+      "Domain Authority": "45",
+      "Domain": "wspa.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1756016320",
+      "Last seen": "1781123311"
     },
     {
       "Domain Authority": "44",
@@ -239,7 +279,7 @@
       "Backlinks": "101",
       "Country": "us",
       "First seen": "1753303118",
-      "Last seen": "1783328898"
+      "Last seen": "1783885037"
     },
     {
       "Domain Authority": "43",
@@ -263,7 +303,7 @@
       "Backlinks": "2",
       "Country": "us",
       "First seen": "1763299701",
-      "Last seen": "1782639922"
+      "Last seen": "1783625430"
     },
     {
       "Domain Authority": "42",
@@ -279,7 +319,15 @@
       "Backlinks": "31",
       "Country": "",
       "First seen": "1758753814",
-      "Last seen": "1783307441"
+      "Last seen": "1783873709"
+    },
+    {
+      "Domain Authority": "42",
+      "Domain": "wfxrtv.com",
+      "Backlinks": "1",
+      "Country": "us",
+      "First seen": "1757567856",
+      "Last seen": "1782243528"
     },
     {
       "Domain Authority": "41",
@@ -311,7 +359,7 @@
       "Backlinks": "4",
       "Country": "us",
       "First seen": "1755878389",
-      "Last seen": "1782160259"
+      "Last seen": "1783926306"
     },
     {
       "Domain Authority": "40",
@@ -343,7 +391,7 @@
       "Backlinks": "26",
       "Country": "gb",
       "First seen": "1758275106",
-      "Last seen": "1782743855"
+      "Last seen": "1783501185"
     },
     {
       "Domain Authority": "39",
@@ -363,11 +411,19 @@
     },
     {
       "Domain Authority": "38",
+      "Domain": "informnny.com",
+      "Backlinks": "4",
+      "Country": "us",
+      "First seen": "1757513028",
+      "Last seen": "1780850512"
+    },
+    {
+      "Domain Authority": "38",
       "Domain": "techdogs.com",
       "Backlinks": "1",
-      "Country": "us",
+      "Country": "",
       "First seen": "1760841155",
-      "Last seen": "1781904842"
+      "Last seen": "1783677037"
     },
     {
       "Domain Authority": "37",
@@ -384,6 +440,14 @@
       "Country": "de",
       "First seen": "1764694510",
       "Last seen": "1781715108"
+    },
+    {
+      "Domain Authority": "35",
+      "Domain": "ebool.com",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1783847709",
+      "Last seen": "1783847709"
     },
     {
       "Domain Authority": "35",
@@ -407,7 +471,15 @@
       "Backlinks": "37",
       "Country": "",
       "First seen": "1756961794",
-      "Last seen": "1783157166"
+      "Last seen": "1783681750"
+    },
+    {
+      "Domain Authority": "34",
+      "Domain": "clodura.ai",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1754211481",
+      "Last seen": "1782472125"
     },
     {
       "Domain Authority": "34",
@@ -455,7 +527,7 @@
       "Backlinks": "99",
       "Country": "us",
       "First seen": "1751553856",
-      "Last seen": "1783325952"
+      "Last seen": "1783880975"
     },
     {
       "Domain Authority": "31",
@@ -503,15 +575,15 @@
       "Backlinks": "15",
       "Country": "hk",
       "First seen": "1761652735",
-      "Last seen": "1783262151"
+      "Last seen": "1783807213"
     },
     {
       "Domain Authority": "30",
       "Domain": "upay.best",
       "Backlinks": "1",
       "Country": "",
-      "First seen": "1764655631",
-      "Last seen": "1780860953"
+      "First seen": "1720795495",
+      "Last seen": "1783287136"
     },
     {
       "Domain Authority": "30",
@@ -583,7 +655,7 @@
       "Backlinks": "10",
       "Country": "ir",
       "First seen": "1760827057",
-      "Last seen": "1783259869"
+      "Last seen": "1783623259"
     },
     {
       "Domain Authority": "28",
@@ -599,7 +671,7 @@
       "Backlinks": "11",
       "Country": "gb",
       "First seen": "1757670492",
-      "Last seen": "1781919592"
+      "Last seen": "1783757094"
     },
     {
       "Domain Authority": "28",
@@ -608,6 +680,14 @@
       "Country": "",
       "First seen": "1762432320",
       "Last seen": "1782134188"
+    },
+    {
+      "Domain Authority": "28",
+      "Domain": "tntcode.com",
+      "Backlinks": "7",
+      "Country": "",
+      "First seen": "1760095715",
+      "Last seen": "1783521024"
     },
     {
       "Domain Authority": "28",
@@ -631,15 +711,7 @@
       "Backlinks": "20",
       "Country": "",
       "First seen": "1756444020",
-      "Last seen": "1783253647"
-    },
-    {
-      "Domain Authority": "27",
-      "Domain": "tntcode.com",
-      "Backlinks": "6",
-      "Country": "",
-      "First seen": "1760095715",
-      "Last seen": "1778693908"
+      "Last seen": "1783938286"
     },
     {
       "Domain Authority": "26",
@@ -664,6 +736,14 @@
       "Country": "us",
       "First seen": "1768753390",
       "Last seen": "1782353294"
+    },
+    {
+      "Domain Authority": "26",
+      "Domain": "zephyrnet.com",
+      "Backlinks": "11",
+      "Country": "",
+      "First seen": "1750046270",
+      "Last seen": "1782668558"
     },
     {
       "Domain Authority": "25",
@@ -719,87 +799,7 @@
       "Backlinks": "35",
       "Country": "nl",
       "First seen": "1757535154",
-      "Last seen": "1782704667"
-    },
-    {
-      "Domain Authority": "25",
-      "Domain": "tgchannels.org",
-      "Backlinks": "2",
-      "Country": "ru",
-      "First seen": "1761584331",
-      "Last seen": "1779112225"
-    },
-    {
-      "Domain Authority": "25",
-      "Domain": "yourbigsky.com",
-      "Backlinks": "2",
-      "Country": "us",
-      "First seen": "1756081020",
-      "Last seen": "1780101925"
-    },
-    {
-      "Domain Authority": "24",
-      "Domain": "diowebhost.com",
-      "Backlinks": "35",
-      "Country": "",
-      "First seen": "1761696730",
-      "Last seen": "1782645912"
-    },
-    {
-      "Domain Authority": "24",
-      "Domain": "full-design.com",
-      "Backlinks": "19",
-      "Country": "",
-      "First seen": "1762071390",
-      "Last seen": "1783124617"
-    },
-    {
-      "Domain Authority": "24",
-      "Domain": "insidertracking.com",
-      "Backlinks": "2",
-      "Country": "",
-      "First seen": "1759000639",
-      "Last seen": "1775828762"
-    },
-    {
-      "Domain Authority": "24",
-      "Domain": "permutable.ai",
-      "Backlinks": "1",
-      "Country": "us",
-      "First seen": "1760720361",
-      "Last seen": "1782120242"
-    },
-    {
-      "Domain Authority": "24",
-      "Domain": "tejaratefarda.com",
-      "Backlinks": "4",
-      "Country": "ir",
-      "First seen": "1759401104",
-      "Last seen": "1782806054"
-    },
-    {
-      "Domain Authority": "24",
-      "Domain": "topline.com",
-      "Backlinks": "1",
-      "Country": "",
-      "First seen": "1759657992",
-      "Last seen": "1773602773"
-    },
-    {
-      "Domain Authority": "23",
-      "Domain": "brokersome.com",
-      "Backlinks": "57",
-      "Country": "",
-      "First seen": "1734499707",
-      "Last seen": "1783312938"
-    },
-    {
-      "Domain Authority": "22",
-      "Domain": "ampblogs.com",
-      "Backlinks": "46",
-      "Country": "",
-      "First seen": "1758109636",
-      "Last seen": "1783132756"
+      "Last seen": "1783619769"
     }
   ]
 }

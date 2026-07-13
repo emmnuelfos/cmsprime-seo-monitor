@@ -1,13 +1,13 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-13",
   "rows": [
     {
       "Keyword": "cms prime",
       "Position": "1",
       "Previous position": "",
       "Search Volume": "480",
-      "CPC": "2.40",
-      "Traffic (%)": "84.39",
+      "CPC": "2.26",
+      "Traffic (%)": "84.58",
       "URL": "https://cmsprime.com/"
     },
     {
@@ -16,7 +16,7 @@
       "Previous position": "",
       "Search Volume": "30",
       "CPC": "5.57",
-      "Traffic (%)": "5.27",
+      "Traffic (%)": "5.28",
       "URL": "https://cmsprime.com/"
     },
     {
@@ -25,7 +25,7 @@
       "Previous position": "",
       "Search Volume": "1900",
       "CPC": "3.12",
-      "Traffic (%)": "5.27",
+      "Traffic (%)": "5.28",
       "URL": "https://cmsprime.com/"
     },
     {
@@ -34,7 +34,7 @@
       "Previous position": "",
       "Search Volume": "260",
       "CPC": "1.27",
-      "Traffic (%)": "1.53",
+      "Traffic (%)": "1.54",
       "URL": "https://cmsprime.com/"
     },
     {
@@ -43,7 +43,7 @@
       "Previous position": "",
       "Search Volume": "90",
       "CPC": "0.00",
-      "Traffic (%)": "0.87",
+      "Traffic (%)": "0.88",
       "URL": "https://mycms.cmsprime.com/login"
     },
     {
@@ -52,17 +52,8 @@
       "Previous position": "",
       "Search Volume": "1000",
       "CPC": "2.90",
-      "Traffic (%)": "0.65",
+      "Traffic (%)": "0.66",
       "URL": "https://cmsprime.com/blogs/what-is-forex-trading/"
-    },
-    {
-      "Keyword": "free forex trading books",
-      "Position": "4",
-      "Previous position": "",
-      "Search Volume": "40",
-      "CPC": "0.00",
-      "Traffic (%)": "0.43",
-      "URL": "https://cmsprime.com/ebook/"
     },
     {
       "Keyword": "pamm trading",
@@ -70,7 +61,7 @@
       "Previous position": "",
       "Search Volume": "30",
       "CPC": "5.16",
-      "Traffic (%)": "0.21",
+      "Traffic (%)": "0.22",
       "URL": "https://cmsprime.com/pamm-trading/"
     },
     {
@@ -81,6 +72,15 @@
       "CPC": "1.90",
       "Traffic (%)": "0.00",
       "URL": "https://cmsprime.com/blogs/best-trading-sessions-uae/"
+    },
+    {
+      "Keyword": "primexm",
+      "Position": "34",
+      "Previous position": "",
+      "Search Volume": "30",
+      "CPC": "7.49",
+      "Traffic (%)": "0.00",
+      "URL": "https://cmsprime.com/"
     },
     {
       "Keyword": "cms packages",
@@ -144,6 +144,15 @@
       "CPC": "0.00",
       "Traffic (%)": "0.00",
       "URL": "https://cmsprime.com/forex-holiday-schedule/"
+    },
+    {
+      "Keyword": "cmfs",
+      "Position": "51",
+      "Previous position": "",
+      "Search Volume": "880",
+      "CPC": "0.13",
+      "Traffic (%)": "0.00",
+      "URL": "https://cmsprime.com/"
     },
     {
       "Keyword": "cms rak",
@@ -218,24 +227,6 @@
       "URL": "https://cmsprime.com/blogs/currency-pairs/"
     },
     {
-      "Keyword": "currency market timing",
-      "Position": "24",
-      "Previous position": "",
-      "Search Volume": "90",
-      "CPC": "6.67",
-      "Traffic (%)": "0.00",
-      "URL": "https://cmsprime.com/blogs/forex-trading-hours-explained/"
-    },
-    {
-      "Keyword": "currency trading time",
-      "Position": "46",
-      "Previous position": "",
-      "Search Volume": "30",
-      "CPC": "2.00",
-      "Traffic (%)": "0.00",
-      "URL": "https://cmsprime.com/blogs/forex-trading-hours-explained/"
-    },
-    {
       "Keyword": "cms logistics dubai",
       "Position": "39",
       "Previous position": "",
@@ -263,13 +254,13 @@
       "URL": "https://cmsprime.com/blogs/social-trading-works/"
     },
     {
-      "Keyword": "fx time",
-      "Position": "29",
+      "Keyword": "cms logistics",
+      "Position": "45",
       "Previous position": "",
-      "Search Volume": "110",
-      "CPC": "3.07",
+      "Search Volume": "1300",
+      "CPC": "0.46",
       "Traffic (%)": "0.00",
-      "URL": "https://cmsprime.com/blogs/forex-trading-hours-explained/"
+      "URL": "https://cmsprime.com/"
     },
     {
       "Keyword": "cms dubai",
@@ -308,13 +299,13 @@
       "URL": "https://cmsprime.com/social-trading/"
     },
     {
-      "Keyword": "trading central",
-      "Position": "75",
+      "Keyword": "forex trading hours uae",
+      "Position": "13",
       "Previous position": "",
-      "Search Volume": "320",
-      "CPC": "3.64",
+      "Search Volume": "90",
+      "CPC": "3.23",
       "Traffic (%)": "0.00",
-      "URL": "https://cmsprime.com/trading-central/"
+      "URL": "https://cmsprime.com/blogs/best-trading-sessions-uae/"
     },
     {
       "Keyword": "top forex currency pairs",
