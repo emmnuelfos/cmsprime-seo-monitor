@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-20",
   "rows": [
     {
       "Keyword": "cms prime",
@@ -7,7 +7,7 @@
       "Previous position": "",
       "Search Volume": "480",
       "CPC": "2.26",
-      "Traffic (%)": "84.58",
+      "Traffic (%)": "84.02",
       "URL": "https://cmsprime.com/"
     },
     {
@@ -16,7 +16,7 @@
       "Previous position": "",
       "Search Volume": "30",
       "CPC": "5.57",
-      "Traffic (%)": "5.28",
+      "Traffic (%)": "5.25",
       "URL": "https://cmsprime.com/"
     },
     {
@@ -25,7 +25,7 @@
       "Previous position": "",
       "Search Volume": "1900",
       "CPC": "3.12",
-      "Traffic (%)": "5.28",
+      "Traffic (%)": "5.25",
       "URL": "https://cmsprime.com/"
     },
     {
@@ -34,7 +34,7 @@
       "Previous position": "",
       "Search Volume": "260",
       "CPC": "1.27",
-      "Traffic (%)": "1.54",
+      "Traffic (%)": "1.53",
       "URL": "https://cmsprime.com/"
     },
     {
@@ -43,7 +43,7 @@
       "Previous position": "",
       "Search Volume": "90",
       "CPC": "0.00",
-      "Traffic (%)": "0.88",
+      "Traffic (%)": "0.87",
       "URL": "https://mycms.cmsprime.com/login"
     },
     {
@@ -52,8 +52,17 @@
       "Previous position": "",
       "Search Volume": "1000",
       "CPC": "2.90",
-      "Traffic (%)": "0.66",
+      "Traffic (%)": "0.65",
       "URL": "https://cmsprime.com/blogs/what-is-forex-trading/"
+    },
+    {
+      "Keyword": "most traded forex pairs",
+      "Position": "2",
+      "Previous position": "",
+      "Search Volume": "50",
+      "CPC": "8.53",
+      "Traffic (%)": "0.43",
+      "URL": "https://cmsprime.com/blogs/currency-pairs/"
     },
     {
       "Keyword": "pamm trading",
@@ -61,7 +70,7 @@
       "Previous position": "",
       "Search Volume": "30",
       "CPC": "5.16",
-      "Traffic (%)": "0.22",
+      "Traffic (%)": "0.21",
       "URL": "https://cmsprime.com/pamm-trading/"
     },
     {
@@ -218,15 +227,6 @@
       "URL": "https://cmsprime.com/blogs/macd-indicator-explained/"
     },
     {
-      "Keyword": "most traded forex pairs",
-      "Position": "11",
-      "Previous position": "",
-      "Search Volume": "50",
-      "CPC": "8.53",
-      "Traffic (%)": "0.00",
-      "URL": "https://cmsprime.com/blogs/currency-pairs/"
-    },
-    {
       "Keyword": "cms logistics dubai",
       "Position": "39",
       "Previous position": "",
@@ -281,6 +281,15 @@
       "URL": "https://cmsprime.com/"
     },
     {
+      "Keyword": "forex market hours uae",
+      "Position": "15",
+      "Previous position": "",
+      "Search Volume": "90",
+      "CPC": "3.23",
+      "Traffic (%)": "0.00",
+      "URL": "https://cmsprime.com/blogs/best-trading-sessions-uae/"
+    },
+    {
       "Keyword": "2tradeasia prime",
       "Position": "16",
       "Previous position": "",
@@ -308,13 +317,13 @@
       "URL": "https://cmsprime.com/blogs/best-trading-sessions-uae/"
     },
     {
-      "Keyword": "top forex currency pairs",
-      "Position": "20",
+      "Keyword": "forex trading time in uae",
+      "Position": "11",
       "Previous position": "",
-      "Search Volume": "70",
-      "CPC": "0.00",
+      "Search Volume": "90",
+      "CPC": "3.23",
       "Traffic (%)": "0.00",
-      "URL": "https://cmsprime.com/blogs/currency-pairs/"
+      "URL": "https://cmsprime.com/blogs/best-trading-sessions-uae/"
     },
     {
       "Keyword": "pamm",
