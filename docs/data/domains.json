@@ -1,4 +1,805 @@
 {
-  "date": "2026-08-10",
-  "rows": []
+  "date": "2026-08-17",
+  "rows": [
+    {
+      "Domain Authority": "100",
+      "Domain": "apple.com",
+      "Backlinks": "7",
+      "Country": "us",
+      "First seen": "1766986067",
+      "Last seen": "1784498524"
+    },
+    {
+      "Domain Authority": "100",
+      "Domain": "google.com",
+      "Backlinks": "4",
+      "Country": "us",
+      "First seen": "1757749478",
+      "Last seen": "1786069229"
+    },
+    {
+      "Domain Authority": "100",
+      "Domain": "indeed.com",
+      "Backlinks": "1",
+      "Country": "us",
+      "First seen": "1783183770",
+      "Last seen": "1783183770"
+    },
+    {
+      "Domain Authority": "100",
+      "Domain": "yahoo.com",
+      "Backlinks": "4",
+      "Country": "us",
+      "First seen": "1757058563",
+      "Last seen": "1779890153"
+    },
+    {
+      "Domain Authority": "98",
+      "Domain": "medium.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1774953537",
+      "Last seen": "1783054983"
+    },
+    {
+      "Domain Authority": "90",
+      "Domain": "linktr.ee",
+      "Backlinks": "13",
+      "Country": "us",
+      "First seen": "1774127081",
+      "Last seen": "1783848945"
+    },
+    {
+      "Domain Authority": "89",
+      "Domain": "reuters.com",
+      "Backlinks": "9",
+      "Country": "us",
+      "First seen": "1739473307",
+      "Last seen": "1772844535"
+    },
+    {
+      "Domain Authority": "79",
+      "Domain": "amazonaws.com",
+      "Backlinks": "1",
+      "Country": "in",
+      "First seen": "1751769128",
+      "Last seen": "1781228421"
+    },
+    {
+      "Domain Authority": "72",
+      "Domain": "crunchbase.com",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1767464833",
+      "Last seen": "1777799194"
+    },
+    {
+      "Domain Authority": "67",
+      "Domain": "ktla.com",
+      "Backlinks": "4",
+      "Country": "us",
+      "First seen": "1757066329",
+      "Last seen": "1784139969"
+    },
+    {
+      "Domain Authority": "67",
+      "Domain": "telegram.me",
+      "Backlinks": "4",
+      "Country": "nl",
+      "First seen": "1767313388",
+      "Last seen": "1786805946"
+    },
+    {
+      "Domain Authority": "61",
+      "Domain": "grokipedia.com",
+      "Backlinks": "2",
+      "Country": "",
+      "First seen": "1764719235",
+      "Last seen": "1779498102"
+    },
+    {
+      "Domain Authority": "58",
+      "Domain": "myfxbook.com",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1764247313",
+      "Last seen": "1786714494"
+    },
+    {
+      "Domain Authority": "57",
+      "Domain": "scam-detector.com",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1764244594",
+      "Last seen": "1779383348"
+    },
+    {
+      "Domain Authority": "56",
+      "Domain": "telemetr.io",
+      "Backlinks": "2",
+      "Country": "",
+      "First seen": "1751883198",
+      "Last seen": "1774501601"
+    },
+    {
+      "Domain Authority": "55",
+      "Domain": "heygotrade.com",
+      "Backlinks": "3",
+      "Country": "us",
+      "First seen": "1769940441",
+      "Last seen": "1782950971"
+    },
+    {
+      "Domain Authority": "55",
+      "Domain": "woodtv.com",
+      "Backlinks": "4",
+      "Country": "us",
+      "First seen": "1760831562",
+      "Last seen": "1784092898"
+    },
+    {
+      "Domain Authority": "54",
+      "Domain": "pix11.com",
+      "Backlinks": "4",
+      "Country": "us",
+      "First seen": "1759875702",
+      "Last seen": "1785380414"
+    },
+    {
+      "Domain Authority": "54",
+      "Domain": "wate.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1755931231",
+      "Last seen": "1782619437"
+    },
+    {
+      "Domain Authority": "54",
+      "Domain": "wkrn.com",
+      "Backlinks": "4",
+      "Country": "us",
+      "First seen": "1754286956",
+      "Last seen": "1781572355"
+    },
+    {
+      "Domain Authority": "52",
+      "Domain": "cbs42.com",
+      "Backlinks": "4",
+      "Country": "us",
+      "First seen": "1762943961",
+      "Last seen": "1777289083"
+    },
+    {
+      "Domain Authority": "51",
+      "Domain": "link.me",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1785661523",
+      "Last seen": "1785661523"
+    },
+    {
+      "Domain Authority": "51",
+      "Domain": "rankia.com",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1764730819",
+      "Last seen": "1779038646"
+    },
+    {
+      "Domain Authority": "50",
+      "Domain": "appadvice.com",
+      "Backlinks": "1",
+      "Country": "us",
+      "First seen": "1757040175",
+      "Last seen": "1770941773"
+    },
+    {
+      "Domain Authority": "50",
+      "Domain": "pr-cy.ru",
+      "Backlinks": "1",
+      "Country": "ru",
+      "First seen": "1779752053",
+      "Last seen": "1779752053"
+    },
+    {
+      "Domain Authority": "49",
+      "Domain": "accessnewswire.com",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1760050668",
+      "Last seen": "1784596649"
+    },
+    {
+      "Domain Authority": "49",
+      "Domain": "klfy.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1756333794",
+      "Last seen": "1780675343"
+    },
+    {
+      "Domain Authority": "48",
+      "Domain": "mystateline.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1756150012",
+      "Last seen": "1780492152"
+    },
+    {
+      "Domain Authority": "47",
+      "Domain": "westernslopenow.com",
+      "Backlinks": "1",
+      "Country": "us",
+      "First seen": "1757267839",
+      "Last seen": "1783822522"
+    },
+    {
+      "Domain Authority": "47",
+      "Domain": "wikifx.com",
+      "Backlinks": "19",
+      "Country": "us",
+      "First seen": "1716781206",
+      "Last seen": "1786849570"
+    },
+    {
+      "Domain Authority": "47",
+      "Domain": "wtaj.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1756142808",
+      "Last seen": "1781820399"
+    },
+    {
+      "Domain Authority": "46",
+      "Domain": "eghtesadnews.com",
+      "Backlinks": "4",
+      "Country": "ir",
+      "First seen": "1762834173",
+      "Last seen": "1781358795"
+    },
+    {
+      "Domain Authority": "46",
+      "Domain": "einpresswire.com",
+      "Backlinks": "4",
+      "Country": "us",
+      "First seen": "1768567555",
+      "Last seen": "1784009365"
+    },
+    {
+      "Domain Authority": "46",
+      "Domain": "fox56news.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1755346363",
+      "Last seen": "1784785955"
+    },
+    {
+      "Domain Authority": "45",
+      "Domain": "chrome-stats.com",
+      "Backlinks": "3",
+      "Country": "",
+      "First seen": "1761420678",
+      "Last seen": "1773399691"
+    },
+    {
+      "Domain Authority": "45",
+      "Domain": "sitelike.org",
+      "Backlinks": "33",
+      "Country": "",
+      "First seen": "1758753814",
+      "Last seen": "1786784942"
+    },
+    {
+      "Domain Authority": "45",
+      "Domain": "wspa.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1756016320",
+      "Last seen": "1781123311"
+    },
+    {
+      "Domain Authority": "44",
+      "Domain": "einnews.com",
+      "Backlinks": "9",
+      "Country": "",
+      "First seen": "1721290283",
+      "Last seen": "1781775133"
+    },
+    {
+      "Domain Authority": "44",
+      "Domain": "fx168news.com",
+      "Backlinks": "2",
+      "Country": "hk",
+      "First seen": "1756722380",
+      "Last seen": "1786454614"
+    },
+    {
+      "Domain Authority": "43",
+      "Domain": "financemagnates.com",
+      "Backlinks": "87",
+      "Country": "us",
+      "First seen": "1722435046",
+      "Last seen": "1786919399"
+    },
+    {
+      "Domain Authority": "43",
+      "Domain": "hashnode.dev",
+      "Backlinks": "21",
+      "Country": "",
+      "First seen": "1783595498",
+      "Last seen": "1786068763"
+    },
+    {
+      "Domain Authority": "43",
+      "Domain": "investinglive.com",
+      "Backlinks": "101",
+      "Country": "us",
+      "First seen": "1753303118",
+      "Last seen": "1784145731"
+    },
+    {
+      "Domain Authority": "43",
+      "Domain": "neverbounce.com",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1775723004",
+      "Last seen": "1775723004"
+    },
+    {
+      "Domain Authority": "43",
+      "Domain": "newsfilecorp.com",
+      "Backlinks": "7",
+      "Country": "us",
+      "First seen": "1760546492",
+      "Last seen": "1786365779"
+    },
+    {
+      "Domain Authority": "43",
+      "Domain": "wdhn.com",
+      "Backlinks": "4",
+      "Country": "us",
+      "First seen": "1757323719",
+      "Last seen": "1784111179"
+    },
+    {
+      "Domain Authority": "43",
+      "Domain": "wytv.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1756140619",
+      "Last seen": "1784330298"
+    },
+    {
+      "Domain Authority": "42",
+      "Domain": "fox21news.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1756139264",
+      "Last seen": "1785369213"
+    },
+    {
+      "Domain Authority": "42",
+      "Domain": "hostingersite.com",
+      "Backlinks": "1",
+      "Country": "gb",
+      "First seen": "1776391859",
+      "Last seen": "1780142145"
+    },
+    {
+      "Domain Authority": "42",
+      "Domain": "wfxrtv.com",
+      "Backlinks": "1",
+      "Country": "us",
+      "First seen": "1757567856",
+      "Last seen": "1782243528"
+    },
+    {
+      "Domain Authority": "41",
+      "Domain": "fastbull.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1763299701",
+      "Last seen": "1786580308"
+    },
+    {
+      "Domain Authority": "41",
+      "Domain": "siteprice.org",
+      "Backlinks": "5",
+      "Country": "",
+      "First seen": "1765490353",
+      "Last seen": "1781775701"
+    },
+    {
+      "Domain Authority": "41",
+      "Domain": "techdogs.com",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1760841155",
+      "Last seen": "1786325083"
+    },
+    {
+      "Domain Authority": "40",
+      "Domain": "issuewire.com",
+      "Backlinks": "4",
+      "Country": "us",
+      "First seen": "1755878389",
+      "Last seen": "1785676901"
+    },
+    {
+      "Domain Authority": "40",
+      "Domain": "sca.gov.ae",
+      "Backlinks": "2",
+      "Country": "ae",
+      "First seen": "1771245123",
+      "Last seen": "1785970065"
+    },
+    {
+      "Domain Authority": "40",
+      "Domain": "video.blog",
+      "Backlinks": "4",
+      "Country": "us",
+      "First seen": "1759359704",
+      "Last seen": "1785693436"
+    },
+    {
+      "Domain Authority": "39",
+      "Domain": "apsense.com",
+      "Backlinks": "3",
+      "Country": "",
+      "First seen": "1769790102",
+      "Last seen": "1784974773"
+    },
+    {
+      "Domain Authority": "39",
+      "Domain": "mychamplainvalley.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1756080584",
+      "Last seen": "1785018836"
+    },
+    {
+      "Domain Authority": "39",
+      "Domain": "newseria.pl",
+      "Backlinks": "8",
+      "Country": "pl",
+      "First seen": "1750767813",
+      "Last seen": "1777662440"
+    },
+    {
+      "Domain Authority": "38",
+      "Domain": "ainvest.com",
+      "Backlinks": "19",
+      "Country": "",
+      "First seen": "1759324490",
+      "Last seen": "1786673059"
+    },
+    {
+      "Domain Authority": "38",
+      "Domain": "earnforex.com",
+      "Backlinks": "26",
+      "Country": "gb",
+      "First seen": "1758275106",
+      "Last seen": "1786846098"
+    },
+    {
+      "Domain Authority": "38",
+      "Domain": "forexpeacearmy.com",
+      "Backlinks": "3",
+      "Country": "",
+      "First seen": "1734497931",
+      "Last seen": "1786882089"
+    },
+    {
+      "Domain Authority": "38",
+      "Domain": "informnny.com",
+      "Backlinks": "4",
+      "Country": "us",
+      "First seen": "1757513028",
+      "Last seen": "1780850512"
+    },
+    {
+      "Domain Authority": "37",
+      "Domain": "ecoiran.com",
+      "Backlinks": "4",
+      "Country": "ir",
+      "First seen": "1761845273",
+      "Last seen": "1786084335"
+    },
+    {
+      "Domain Authority": "36",
+      "Domain": "bloggazza.com",
+      "Backlinks": "23",
+      "Country": "",
+      "First seen": "1759842631",
+      "Last seen": "1786113243"
+    },
+    {
+      "Domain Authority": "36",
+      "Domain": "page.tl",
+      "Backlinks": "1",
+      "Country": "de",
+      "First seen": "1764694510",
+      "Last seen": "1786323186"
+    },
+    {
+      "Domain Authority": "36",
+      "Domain": "wikibit.com",
+      "Backlinks": "98",
+      "Country": "us",
+      "First seen": "1756551455",
+      "Last seen": "1786934211"
+    },
+    {
+      "Domain Authority": "36",
+      "Domain": "wp-search.org",
+      "Backlinks": "1",
+      "Country": "us",
+      "First seen": "1765752477",
+      "Last seen": "1786292692"
+    },
+    {
+      "Domain Authority": "35",
+      "Domain": "cnyhomepage.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1756208798",
+      "Last seen": "1783780099"
+    },
+    {
+      "Domain Authority": "35",
+      "Domain": "marketersmedia.com",
+      "Backlinks": "3",
+      "Country": "",
+      "First seen": "1758317430",
+      "Last seen": "1784518279"
+    },
+    {
+      "Domain Authority": "34",
+      "Domain": "clodura.ai",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1754211481",
+      "Last seen": "1782472125"
+    },
+    {
+      "Domain Authority": "34",
+      "Domain": "elitetrader.com",
+      "Backlinks": "2",
+      "Country": "",
+      "First seen": "1765077636",
+      "Last seen": "1782719760"
+    },
+    {
+      "Domain Authority": "34",
+      "Domain": "snowball-analytics.com",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1765267464",
+      "Last seen": "1786067429"
+    },
+    {
+      "Domain Authority": "33",
+      "Domain": "2822news.com",
+      "Backlinks": "1",
+      "Country": "us",
+      "First seen": "1759624204",
+      "Last seen": "1779626088"
+    },
+    {
+      "Domain Authority": "33",
+      "Domain": "iranbroker.net",
+      "Backlinks": "4",
+      "Country": "ir",
+      "First seen": "1757068874",
+      "Last seen": "1786927969"
+    },
+    {
+      "Domain Authority": "32",
+      "Domain": "ebool.com",
+      "Backlinks": "16",
+      "Country": "",
+      "First seen": "1783847709",
+      "Last seen": "1786924593"
+    },
+    {
+      "Domain Authority": "31",
+      "Domain": "biyapay.com",
+      "Backlinks": "11",
+      "Country": "hk",
+      "First seen": "1761744244",
+      "Last seen": "1786878957"
+    },
+    {
+      "Domain Authority": "31",
+      "Domain": "fsa.gov.om",
+      "Backlinks": "3",
+      "Country": "om",
+      "First seen": "1765762530",
+      "Last seen": "1776069715"
+    },
+    {
+      "Domain Authority": "31",
+      "Domain": "salezshark.com",
+      "Backlinks": "1",
+      "Country": "us",
+      "First seen": "1744225105",
+      "Last seen": "1770189432"
+    },
+    {
+      "Domain Authority": "31",
+      "Domain": "trustfinance.com",
+      "Backlinks": "3",
+      "Country": "",
+      "First seen": "1782746889",
+      "Last seen": "1785938140"
+    },
+    {
+      "Domain Authority": "30",
+      "Domain": "getlisteduae.com",
+      "Backlinks": "3",
+      "Country": "",
+      "First seen": "1760059597",
+      "Last seen": "1786345659"
+    },
+    {
+      "Domain Authority": "30",
+      "Domain": "jobhop.co.uk",
+      "Backlinks": "11",
+      "Country": "gb",
+      "First seen": "1757670492",
+      "Last seen": "1785517579"
+    },
+    {
+      "Domain Authority": "30",
+      "Domain": "topline.com",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1759657992",
+      "Last seen": "1785800171"
+    },
+    {
+      "Domain Authority": "30",
+      "Domain": "upay.best",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1720795495",
+      "Last seen": "1783287136"
+    },
+    {
+      "Domain Authority": "29",
+      "Domain": "cw7az.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1756028874",
+      "Last seen": "1780550336"
+    },
+    {
+      "Domain Authority": "29",
+      "Domain": "linkcentre.com",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1771572300",
+      "Last seen": "1771572300"
+    },
+    {
+      "Domain Authority": "29",
+      "Domain": "techdirectory.io",
+      "Backlinks": "2",
+      "Country": "",
+      "First seen": "1771482460",
+      "Last seen": "1781631850"
+    },
+    {
+      "Domain Authority": "28",
+      "Domain": "activosblog.com",
+      "Backlinks": "10",
+      "Country": "",
+      "First seen": "1760884929",
+      "Last seen": "1785770794"
+    },
+    {
+      "Domain Authority": "28",
+      "Domain": "cenlanow.com",
+      "Backlinks": "2",
+      "Country": "us",
+      "First seen": "1756244755",
+      "Last seen": "1785164665"
+    },
+    {
+      "Domain Authority": "28",
+      "Domain": "diversification.com",
+      "Backlinks": "1",
+      "Country": "us",
+      "First seen": "1766387876",
+      "Last seen": "1777224949"
+    },
+    {
+      "Domain Authority": "28",
+      "Domain": "eseminar.tv",
+      "Backlinks": "10",
+      "Country": "ir",
+      "First seen": "1760827057",
+      "Last seen": "1784457522"
+    },
+    {
+      "Domain Authority": "28",
+      "Domain": "fundingtraders.com",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1785770442",
+      "Last seen": "1786124073"
+    },
+    {
+      "Domain Authority": "28",
+      "Domain": "hammihanonline.ir",
+      "Backlinks": "2",
+      "Country": "ir",
+      "First seen": "1754604966",
+      "Last seen": "1786451705"
+    },
+    {
+      "Domain Authority": "28",
+      "Domain": "khanesarmaye.com",
+      "Backlinks": "8",
+      "Country": "ir",
+      "First seen": "1744894617",
+      "Last seen": "1786231654"
+    },
+    {
+      "Domain Authority": "28",
+      "Domain": "supplyautonomy.com",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1762432320",
+      "Last seen": "1782134188"
+    },
+    {
+      "Domain Authority": "28",
+      "Domain": "theiconomics.com",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1757855986",
+      "Last seen": "1785891269"
+    },
+    {
+      "Domain Authority": "28",
+      "Domain": "twicopy.com",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1765623939",
+      "Last seen": "1778442205"
+    },
+    {
+      "Domain Authority": "28",
+      "Domain": "upay.com",
+      "Backlinks": "5",
+      "Country": "",
+      "First seen": "1781177018",
+      "Last seen": "1786685634"
+    },
+    {
+      "Domain Authority": "28",
+      "Domain": "zupyak.com",
+      "Backlinks": "13",
+      "Country": "",
+      "First seen": "1758700448",
+      "Last seen": "1778413437"
+    },
+    {
+      "Domain Authority": "27",
+      "Domain": "asiaforexmentor.com",
+      "Backlinks": "1",
+      "Country": "us",
+      "First seen": "1759709953",
+      "Last seen": "1786411287"
+    },
+    {
+      "Domain Authority": "27",
+      "Domain": "globegain.com",
+      "Backlinks": "20",
+      "Country": "fi",
+      "First seen": "1786123483",
+      "Last seen": "1786890564"
+    }
+  ]
 }
