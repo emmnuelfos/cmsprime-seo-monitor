@@ -255,7 +255,31 @@
       "semrush_follow_links": 4520,
       "semrush_nofollow_links": 4478,
       "semrush_units_used": 4440
+    },
+    {
+      "date": "2026-08-24",
+      "sitemap_en_count": 317,
+      "sitemap_ar_count": 247,
+      "sitemap_fa_count": 274,
+      "phantom_301s_ok": 10,
+      "phantom_301s_total": 10,
+      "pages_sampled": 6,
+      "avg_fetch_time_s": 1.55,
+      "avg_html_kb": 590,
+      "pages_with_hreflang_3plus": 5,
+      "pages_with_org_schema": 6,
+      "pages_with_credentials": 5,
+      "avg_imgs_no_dims": 136,
+      "semrush_organic_kw_ae": 54,
+      "semrush_organic_traffic_ae": 556,
+      "semrush_rank_ae": 45494,
+      "semrush_total_backlinks": 9162,
+      "semrush_referring_domains": 1920,
+      "semrush_ascore": 24,
+      "semrush_follow_links": 4570,
+      "semrush_nofollow_links": 4558,
+      "semrush_units_used": 4460
     }
   ],
-  "updated": "2026-08-17"
+  "updated": "2026-08-24"
 }
