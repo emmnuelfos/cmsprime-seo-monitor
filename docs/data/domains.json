@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-31",
   "rows": [
     {
       "Domain Authority": "100",
@@ -28,9 +28,9 @@
     {
       "Domain Authority": "100",
       "Domain": "yahoo.com",
-      "Backlinks": "4",
+      "Backlinks": "1",
       "Country": "us",
-      "First seen": "1757058563",
+      "First seen": "1779890153",
       "Last seen": "1779890153"
     },
     {
@@ -84,10 +84,10 @@
     {
       "Domain Authority": "67",
       "Domain": "telegram.me",
-      "Backlinks": "6",
+      "Backlinks": "7",
       "Country": "nl",
       "First seen": "1767313388",
-      "Last seen": "1787159995"
+      "Last seen": "1787837157"
     },
     {
       "Domain Authority": "61",
@@ -106,12 +106,12 @@
       "Last seen": "1786714494"
     },
     {
-      "Domain Authority": "57",
+      "Domain Authority": "58",
       "Domain": "scam-detector.com",
       "Backlinks": "1",
       "Country": "",
       "First seen": "1764244594",
-      "Last seen": "1779383348"
+      "Last seen": "1787765958"
     },
     {
       "Domain Authority": "56",
@@ -124,9 +124,9 @@
     {
       "Domain Authority": "55",
       "Domain": "heygotrade.com",
-      "Backlinks": "3",
+      "Backlinks": "2",
       "Country": "us",
-      "First seen": "1769940441",
+      "First seen": "1770640995",
       "Last seen": "1782950971"
     },
     {
@@ -187,14 +187,6 @@
     },
     {
       "Domain Authority": "50",
-      "Domain": "appadvice.com",
-      "Backlinks": "1",
-      "Country": "us",
-      "First seen": "1757040175",
-      "Last seen": "1770941773"
-    },
-    {
-      "Domain Authority": "50",
       "Domain": "pr-cy.ru",
       "Backlinks": "1",
       "Country": "ru",
@@ -239,7 +231,7 @@
       "Backlinks": "19",
       "Country": "us",
       "First seen": "1716781206",
-      "Last seen": "1787529459"
+      "Last seen": "1788148527"
     },
     {
       "Domain Authority": "47",
@@ -276,10 +268,10 @@
     {
       "Domain Authority": "45",
       "Domain": "sitelike.org",
-      "Backlinks": "33",
+      "Backlinks": "34",
       "Country": "",
       "First seen": "1758753814",
-      "Last seen": "1787486193"
+      "Last seen": "1788175253"
     },
     {
       "Domain Authority": "45",
@@ -295,7 +287,7 @@
       "Backlinks": "4",
       "Country": "ir",
       "First seen": "1762834173",
-      "Last seen": "1787516931"
+      "Last seen": "1787779914"
     },
     {
       "Domain Authority": "44",
@@ -310,7 +302,7 @@
       "Domain": "fx168news.com",
       "Backlinks": "2",
       "Country": "hk",
-      "First seen": "1756722380",
+      "First seen": "1761993004",
       "Last seen": "1786454614"
     },
     {
@@ -319,7 +311,7 @@
       "Backlinks": "87",
       "Country": "us",
       "First seen": "1722435046",
-      "Last seen": "1787243472"
+      "Last seen": "1788173484"
     },
     {
       "Domain Authority": "43",
@@ -399,7 +391,7 @@
       "Backlinks": "2",
       "Country": "sg",
       "First seen": "1763299701",
-      "Last seen": "1787140929"
+      "Last seen": "1788014128"
     },
     {
       "Domain Authority": "41",
@@ -420,9 +412,9 @@
     {
       "Domain Authority": "41",
       "Domain": "video.blog",
-      "Backlinks": "5",
+      "Backlinks": "4",
       "Country": "us",
-      "First seen": "1759359704",
+      "First seen": "1766138694",
       "Last seen": "1787354020"
     },
     {
@@ -430,7 +422,7 @@
       "Domain": "issuewire.com",
       "Backlinks": "4",
       "Country": "us",
-      "First seen": "1755878389",
+      "First seen": "1759398701",
       "Last seen": "1787443002"
     },
     {
@@ -452,18 +444,26 @@
     {
       "Domain Authority": "39",
       "Domain": "newseria.pl",
-      "Backlinks": "8",
+      "Backlinks": "4",
       "Country": "pl",
-      "First seen": "1750767813",
+      "First seen": "1757546487",
       "Last seen": "1777662440"
     },
     {
       "Domain Authority": "38",
       "Domain": "ainvest.com",
-      "Backlinks": "19",
+      "Backlinks": "17",
       "Country": "",
       "First seen": "1759324490",
-      "Last seen": "1787556097"
+      "Last seen": "1787854115"
+    },
+    {
+      "Domain Authority": "38",
+      "Domain": "bloggazza.com",
+      "Backlinks": "23",
+      "Country": "",
+      "First seen": "1759842631",
+      "Last seen": "1787881253"
     },
     {
       "Domain Authority": "38",
@@ -471,14 +471,14 @@
       "Backlinks": "26",
       "Country": "gb",
       "First seen": "1758275106",
-      "Last seen": "1787229602"
+      "Last seen": "1787946857"
     },
     {
       "Domain Authority": "38",
       "Domain": "forexpeacearmy.com",
       "Backlinks": "3",
       "Country": "",
-      "First seen": "1734497931",
+      "First seen": "1763733431",
       "Last seen": "1787428694"
     },
     {
@@ -507,14 +507,6 @@
     },
     {
       "Domain Authority": "36",
-      "Domain": "bloggazza.com",
-      "Backlinks": "23",
-      "Country": "",
-      "First seen": "1759842631",
-      "Last seen": "1786113243"
-    },
-    {
-      "Domain Authority": "36",
       "Domain": "page.tl",
       "Backlinks": "1",
       "Country": "de",
@@ -524,10 +516,10 @@
     {
       "Domain Authority": "36",
       "Domain": "wikibit.com",
-      "Backlinks": "98",
+      "Backlinks": "92",
       "Country": "us",
       "First seen": "1756551455",
-      "Last seen": "1787056198"
+      "Last seen": "1787935346"
     },
     {
       "Domain Authority": "36",
@@ -554,28 +546,20 @@
       "Last seen": "1784518279"
     },
     {
+      "Domain Authority": "35",
+      "Domain": "snowball-analytics.com",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1765267464",
+      "Last seen": "1787812237"
+    },
+    {
       "Domain Authority": "34",
       "Domain": "clodura.ai",
       "Backlinks": "1",
       "Country": "",
       "First seen": "1754211481",
       "Last seen": "1782472125"
-    },
-    {
-      "Domain Authority": "34",
-      "Domain": "elitetrader.com",
-      "Backlinks": "2",
-      "Country": "",
-      "First seen": "1765077636",
-      "Last seen": "1782719760"
-    },
-    {
-      "Domain Authority": "34",
-      "Domain": "snowball-analytics.com",
-      "Backlinks": "1",
-      "Country": "",
-      "First seen": "1765267464",
-      "Last seen": "1786067429"
     },
     {
       "Domain Authority": "33",
@@ -587,11 +571,19 @@
     },
     {
       "Domain Authority": "33",
+      "Domain": "elitetrader.com",
+      "Backlinks": "2",
+      "Country": "",
+      "First seen": "1765077636",
+      "Last seen": "1788064113"
+    },
+    {
+      "Domain Authority": "33",
       "Domain": "iranbroker.net",
       "Backlinks": "4",
       "Country": "ir",
       "First seen": "1757068874",
-      "Last seen": "1787441835"
+      "Last seen": "1787903210"
     },
     {
       "Domain Authority": "32",
@@ -599,15 +591,15 @@
       "Backlinks": "16",
       "Country": "",
       "First seen": "1783847709",
-      "Last seen": "1787556775"
+      "Last seen": "1788036897"
     },
     {
       "Domain Authority": "32",
       "Domain": "trustfinance.com",
-      "Backlinks": "3",
+      "Backlinks": "6",
       "Country": "",
       "First seen": "1782746889",
-      "Last seen": "1787413229"
+      "Last seen": "1788192177"
     },
     {
       "Domain Authority": "31",
@@ -615,23 +607,23 @@
       "Backlinks": "11",
       "Country": "hk",
       "First seen": "1761744244",
-      "Last seen": "1787205032"
+      "Last seen": "1788183143"
     },
     {
       "Domain Authority": "31",
       "Domain": "fsa.gov.om",
-      "Backlinks": "3",
+      "Backlinks": "2",
       "Country": "om",
       "First seen": "1765762530",
       "Last seen": "1776069715"
     },
     {
       "Domain Authority": "31",
-      "Domain": "salezshark.com",
+      "Domain": "theiconomics.com",
       "Backlinks": "1",
-      "Country": "us",
-      "First seen": "1744225105",
-      "Last seen": "1770189432"
+      "Country": "",
+      "First seen": "1757855986",
+      "Last seen": "1787637726"
     },
     {
       "Domain Authority": "30",
@@ -682,14 +674,6 @@
       "Last seen": "1780550336"
     },
     {
-      "Domain Authority": "29",
-      "Domain": "linkcentre.com",
-      "Backlinks": "1",
-      "Country": "",
-      "First seen": "1771572300",
-      "Last seen": "1771572300"
-    },
-    {
       "Domain Authority": "28",
       "Domain": "cenlanow.com",
       "Backlinks": "2",
@@ -711,7 +695,7 @@
       "Backlinks": "10",
       "Country": "ir",
       "First seen": "1760827057",
-      "Last seen": "1787156319"
+      "Last seen": "1787788484"
     },
     {
       "Domain Authority": "28",
@@ -727,7 +711,7 @@
       "Backlinks": "8",
       "Country": "ir",
       "First seen": "1744894617",
-      "Last seen": "1786231654"
+      "Last seen": "1787979786"
     },
     {
       "Domain Authority": "28",
@@ -744,14 +728,6 @@
       "Country": "",
       "First seen": "1771482460",
       "Last seen": "1787145752"
-    },
-    {
-      "Domain Authority": "28",
-      "Domain": "theiconomics.com",
-      "Backlinks": "1",
-      "Country": "",
-      "First seen": "1757855986",
-      "Last seen": "1785891269"
     },
     {
       "Domain Authority": "28",
@@ -774,7 +750,7 @@
       "Domain": "zupyak.com",
       "Backlinks": "13",
       "Country": "",
-      "First seen": "1758700448",
+      "First seen": "1768544574",
       "Last seen": "1778413437"
     },
     {
@@ -791,15 +767,39 @@
       "Backlinks": "1",
       "Country": "",
       "First seen": "1785770442",
-      "Last seen": "1787191334"
+      "Last seen": "1788167097"
     },
     {
       "Domain Authority": "27",
       "Domain": "globegain.com",
-      "Backlinks": "24",
+      "Backlinks": "29",
       "Country": "fi",
       "First seen": "1786123483",
-      "Last seen": "1787554644"
+      "Last seen": "1787901933"
+    },
+    {
+      "Domain Authority": "26",
+      "Domain": "cryptoexpodubai.com",
+      "Backlinks": "1",
+      "Country": "gb",
+      "First seen": "1743076879",
+      "Last seen": "1778012274"
+    },
+    {
+      "Domain Authority": "26",
+      "Domain": "ogoing.com",
+      "Backlinks": "20",
+      "Country": "",
+      "First seen": "1759877930",
+      "Last seen": "1788097962"
+    },
+    {
+      "Domain Authority": "26",
+      "Domain": "selling.com",
+      "Backlinks": "1",
+      "Country": "us",
+      "First seen": "1768753390",
+      "Last seen": "1782353294"
     }
   ]
 }
