@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-14",
   "rows": [
     {
       "URL": "https://cmsprime.com/",
       "HTTP": "200",
-      "Fetch (s)": 0.88,
+      "Fetch (s)": 0.93,
       "Size (KB)": 513,
       "Title length": 59,
       "Desc length": 140,
@@ -22,7 +22,7 @@
     {
       "URL": "https://cmsprime.com/metatrader-4/",
       "HTTP": "200",
-      "Fetch (s)": 0.85,
+      "Fetch (s)": 0.89,
       "Size (KB)": 395,
       "Title length": 53,
       "Desc length": 119,
@@ -40,7 +40,7 @@
     {
       "URL": "https://cmsprime.com/online-forex-trading/",
       "HTTP": "200",
-      "Fetch (s)": 1.34,
+      "Fetch (s)": 0.89,
       "Size (KB)": 412,
       "Title length": 60,
       "Desc length": 137,
@@ -58,7 +58,7 @@
     {
       "URL": "https://cmsprime.com/stock-cfds-trading/",
       "HTTP": "200",
-      "Fetch (s)": 0.85,
+      "Fetch (s)": 0.87,
       "Size (KB)": 376,
       "Title length": 54,
       "Desc length": 126,
@@ -76,7 +76,7 @@
     {
       "URL": "https://cmsprime.com/ar/metatrader-4/",
       "HTTP": "200",
-      "Fetch (s)": 1.12,
+      "Fetch (s)": 1.73,
       "Size (KB)": 380,
       "Title length": 50,
       "Desc length": 122,
@@ -94,13 +94,13 @@
     {
       "URL": "https://cmsprime.com/fa/metatrader-4/",
       "HTTP": "200",
-      "Fetch (s)": 1.49,
-      "Size (KB)": 378,
+      "Fetch (s)": 1.65,
+      "Size (KB)": 379,
       "Title length": 51,
       "Desc length": 154,
       "Canonical OK": "Y",
       "H1 count": 1,
-      "Hreflang count": 0,
+      "Hreflang count": 4,
       "Org schema": "Y",
       "Credentials": "N",
       "RB CSS in head": 35,
