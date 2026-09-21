@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-21",
   "rows": [
     {
       "Domain Authority": "100",
@@ -82,14 +82,6 @@
       "Last seen": "1784139969"
     },
     {
-      "Domain Authority": "67",
-      "Domain": "telegram.me",
-      "Backlinks": "8",
-      "Country": "nl",
-      "First seen": "1767313388",
-      "Last seen": "1788857029"
-    },
-    {
       "Domain Authority": "61",
       "Domain": "grokipedia.com",
       "Backlinks": "2",
@@ -136,6 +128,14 @@
       "Country": "us",
       "First seen": "1770640995",
       "Last seen": "1782950971"
+    },
+    {
+      "Domain Authority": "55",
+      "Domain": "telegram.me",
+      "Backlinks": "11",
+      "Country": "nl",
+      "First seen": "1767313388",
+      "Last seen": "1789710607"
     },
     {
       "Domain Authority": "55",
@@ -211,6 +211,14 @@
     },
     {
       "Domain Authority": "48",
+      "Domain": "einpresswire.com",
+      "Backlinks": "6",
+      "Country": "us",
+      "First seen": "1768567555",
+      "Last seen": "1789855357"
+    },
+    {
+      "Domain Authority": "48",
       "Domain": "mystateline.com",
       "Backlinks": "2",
       "Country": "us",
@@ -227,6 +235,14 @@
     },
     {
       "Domain Authority": "47",
+      "Domain": "sitelike.org",
+      "Backlinks": "34",
+      "Country": "",
+      "First seen": "1758753814",
+      "Last seen": "1789761246"
+    },
+    {
+      "Domain Authority": "47",
       "Domain": "westernslopenow.com",
       "Backlinks": "3",
       "Country": "us",
@@ -237,9 +253,9 @@
       "Domain Authority": "47",
       "Domain": "wikifx.com",
       "Backlinks": "19",
-      "Country": "tr",
+      "Country": "us",
       "First seen": "1716781206",
-      "Last seen": "1789336062"
+      "Last seen": "1789880674"
     },
     {
       "Domain Authority": "47",
@@ -259,19 +275,11 @@
     },
     {
       "Domain Authority": "46",
-      "Domain": "einpresswire.com",
-      "Backlinks": "4",
-      "Country": "us",
-      "First seen": "1768567555",
-      "Last seen": "1784009365"
-    },
-    {
-      "Domain Authority": "46",
       "Domain": "financemagnates.com",
       "Backlinks": "87",
       "Country": "us",
       "First seen": "1722435046",
-      "Last seen": "1789363711"
+      "Last seen": "1789973578"
     },
     {
       "Domain Authority": "46",
@@ -288,14 +296,6 @@
       "Country": "",
       "First seen": "1761420678",
       "Last seen": "1773399691"
-    },
-    {
-      "Domain Authority": "45",
-      "Domain": "sitelike.org",
-      "Backlinks": "34",
-      "Country": "",
-      "First seen": "1758753814",
-      "Last seen": "1789091530"
     },
     {
       "Domain Authority": "45",
@@ -322,14 +322,6 @@
       "Last seen": "1781775133"
     },
     {
-      "Domain Authority": "44",
-      "Domain": "fx168news.com",
-      "Backlinks": "2",
-      "Country": "hk",
-      "First seen": "1761993004",
-      "Last seen": "1788223571"
-    },
-    {
       "Domain Authority": "43",
       "Domain": "hashnode.dev",
       "Backlinks": "21",
@@ -352,6 +344,14 @@
       "Country": "",
       "First seen": "1775723004",
       "Last seen": "1775723004"
+    },
+    {
+      "Domain Authority": "43",
+      "Domain": "snowball-analytics.com",
+      "Backlinks": "1",
+      "Country": "",
+      "First seen": "1765267464",
+      "Last seen": "1789580257"
     },
     {
       "Domain Authority": "43",
@@ -443,14 +443,6 @@
     },
     {
       "Domain Authority": "39",
-      "Domain": "apsense.com",
-      "Backlinks": "3",
-      "Country": "",
-      "First seen": "1769790102",
-      "Last seen": "1784974773"
-    },
-    {
-      "Domain Authority": "39",
       "Domain": "mychamplainvalley.com",
       "Backlinks": "2",
       "Country": "us",
@@ -475,19 +467,11 @@
     },
     {
       "Domain Authority": "38",
-      "Domain": "bloggazza.com",
-      "Backlinks": "23",
-      "Country": "",
-      "First seen": "1759842631",
-      "Last seen": "1787881253"
-    },
-    {
-      "Domain Authority": "38",
       "Domain": "earnforex.com",
       "Backlinks": "26",
       "Country": "gb",
       "First seen": "1758275106",
-      "Last seen": "1788985530"
+      "Last seen": "1789973082"
     },
     {
       "Domain Authority": "38",
@@ -523,19 +507,19 @@
     },
     {
       "Domain Authority": "36",
+      "Domain": "fx168news.com",
+      "Backlinks": "2",
+      "Country": "hk",
+      "First seen": "1761993004",
+      "Last seen": "1789962790"
+    },
+    {
+      "Domain Authority": "36",
       "Domain": "page.tl",
       "Backlinks": "1",
       "Country": "de",
       "First seen": "1764694510",
       "Last seen": "1789301029"
-    },
-    {
-      "Domain Authority": "36",
-      "Domain": "wikibit.com",
-      "Backlinks": "92",
-      "Country": "us",
-      "First seen": "1756551455",
-      "Last seen": "1787935346"
     },
     {
       "Domain Authority": "36",
@@ -547,19 +531,19 @@
     },
     {
       "Domain Authority": "35",
+      "Domain": "apsense.com",
+      "Backlinks": "5",
+      "Country": "",
+      "First seen": "1769790102",
+      "Last seen": "1789832140"
+    },
+    {
+      "Domain Authority": "35",
       "Domain": "cnyhomepage.com",
       "Backlinks": "2",
       "Country": "us",
       "First seen": "1756208798",
       "Last seen": "1783780099"
-    },
-    {
-      "Domain Authority": "35",
-      "Domain": "snowball-analytics.com",
-      "Backlinks": "1",
-      "Country": "",
-      "First seen": "1765267464",
-      "Last seen": "1787812237"
     },
     {
       "Domain Authority": "34",
@@ -576,6 +560,14 @@
       "Country": "",
       "First seen": "1758317430",
       "Last seen": "1789068054"
+    },
+    {
+      "Domain Authority": "34",
+      "Domain": "wikibit.com",
+      "Backlinks": "92",
+      "Country": "us",
+      "First seen": "1756551455",
+      "Last seen": "1789538414"
     },
     {
       "Domain Authority": "33",
@@ -599,7 +591,7 @@
       "Backlinks": "16",
       "Country": "",
       "First seen": "1783847709",
-      "Last seen": "1789297759"
+      "Last seen": "1789770262"
     },
     {
       "Domain Authority": "33",
@@ -611,11 +603,27 @@
     },
     {
       "Domain Authority": "32",
+      "Domain": "biyapay.com",
+      "Backlinks": "11",
+      "Country": "hk",
+      "First seen": "1761744244",
+      "Last seen": "1789951724"
+    },
+    {
+      "Domain Authority": "32",
+      "Domain": "bloggazza.com",
+      "Backlinks": "23",
+      "Country": "",
+      "First seen": "1759842631",
+      "Last seen": "1789612951"
+    },
+    {
+      "Domain Authority": "32",
       "Domain": "iranbroker.net",
       "Backlinks": "4",
       "Country": "ir",
       "First seen": "1757068874",
-      "Last seen": "1789346609"
+      "Last seen": "1789970171"
     },
     {
       "Domain Authority": "32",
@@ -624,14 +632,6 @@
       "Country": "",
       "First seen": "1782746889",
       "Last seen": "1788368680"
-    },
-    {
-      "Domain Authority": "31",
-      "Domain": "biyapay.com",
-      "Backlinks": "11",
-      "Country": "hk",
-      "First seen": "1761744244",
-      "Last seen": "1789191482"
     },
     {
       "Domain Authority": "31",
@@ -650,12 +650,20 @@
       "Last seen": "1789395257"
     },
     {
+      "Domain Authority": "31",
+      "Domain": "upay.com",
+      "Backlinks": "10",
+      "Country": "",
+      "First seen": "1781177018",
+      "Last seen": "1789763021"
+    },
+    {
       "Domain Authority": "30",
       "Domain": "arounddeal.com",
-      "Backlinks": "1",
+      "Backlinks": "2",
       "Country": "us",
       "First seen": "1789378657",
-      "Last seen": "1789378657"
+      "Last seen": "1789771846"
     },
     {
       "Domain Authority": "30",
@@ -671,7 +679,7 @@
       "Backlinks": "34",
       "Country": "nl",
       "First seen": "1757696502",
-      "Last seen": "1789393998"
+      "Last seen": "1789591586"
     },
     {
       "Domain Authority": "30",
@@ -699,11 +707,19 @@
     },
     {
       "Domain Authority": "29",
+      "Domain": "eseminar.tv",
+      "Backlinks": "10",
+      "Country": "ir",
+      "First seen": "1760827057",
+      "Last seen": "1789923216"
+    },
+    {
+      "Domain Authority": "29",
       "Domain": "fundingtraders.com",
       "Backlinks": "2",
       "Country": "",
       "First seen": "1785770442",
-      "Last seen": "1789229013"
+      "Last seen": "1789742533"
     },
     {
       "Domain Authority": "28",
@@ -723,14 +739,6 @@
     },
     {
       "Domain Authority": "28",
-      "Domain": "eseminar.tv",
-      "Backlinks": "10",
-      "Country": "ir",
-      "First seen": "1760827057",
-      "Last seen": "1788662584"
-    },
-    {
-      "Domain Authority": "28",
       "Domain": "hammihanonline.ir",
       "Backlinks": "2",
       "Country": "ir",
@@ -743,15 +751,15 @@
       "Backlinks": "8",
       "Country": "ir",
       "First seen": "1744894617",
-      "Last seen": "1787979786"
+      "Last seen": "1789750512"
     },
     {
       "Domain Authority": "28",
-      "Domain": "supplyautonomy.com",
+      "Domain": "revenuebase.ai",
       "Backlinks": "1",
-      "Country": "",
-      "First seen": "1762432320",
-      "Last seen": "1782134188"
+      "Country": "us",
+      "First seen": "1789760184",
+      "Last seen": "1789760184"
     },
     {
       "Domain Authority": "28",
@@ -768,14 +776,6 @@
       "Country": "",
       "First seen": "1765623939",
       "Last seen": "1778442205"
-    },
-    {
-      "Domain Authority": "28",
-      "Domain": "upay.com",
-      "Backlinks": "10",
-      "Country": "",
-      "First seen": "1781177018",
-      "Last seen": "1788897869"
     },
     {
       "Domain Authority": "27",

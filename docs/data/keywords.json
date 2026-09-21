@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-21",
   "rows": [
     {
       "Keyword": "cms prime",
@@ -7,7 +7,7 @@
       "Previous position": "",
       "Search Volume": "390",
       "CPC": "2.72",
-      "Traffic (%)": "75.18",
+      "Traffic (%)": "76.65",
       "URL": "https://cmsprime.com/"
     },
     {
@@ -16,7 +16,7 @@
       "Previous position": "",
       "Search Volume": "40",
       "CPC": "0.00",
-      "Traffic (%)": "7.71",
+      "Traffic (%)": "7.86",
       "URL": "https://cmsprime.com/"
     },
     {
@@ -25,7 +25,7 @@
       "Previous position": "",
       "Search Volume": "30",
       "CPC": "5.57",
-      "Traffic (%)": "5.78",
+      "Traffic (%)": "5.89",
       "URL": "https://cmsprime.com/"
     },
     {
@@ -34,7 +34,7 @@
       "Previous position": "",
       "Search Volume": "1900",
       "CPC": "2.87",
-      "Traffic (%)": "2.16",
+      "Traffic (%)": "2.21",
       "URL": "https://cmsprime.com/"
     },
     {
@@ -43,17 +43,8 @@
       "Previous position": "",
       "Search Volume": "210",
       "CPC": "0.96",
-      "Traffic (%)": "1.92",
+      "Traffic (%)": "1.96",
       "URL": "https://cmsprime.com/"
-    },
-    {
-      "Keyword": "cms login",
-      "Position": "3",
-      "Previous position": "",
-      "Search Volume": "90",
-      "CPC": "0.00",
-      "Traffic (%)": "1.92",
-      "URL": "https://mycms.cmsprime.com/login"
     },
     {
       "Keyword": "ebook trading",
@@ -61,7 +52,7 @@
       "Previous position": "",
       "Search Volume": "30",
       "CPC": "2.33",
-      "Traffic (%)": "0.48",
+      "Traffic (%)": "0.49",
       "URL": "https://cmsprime.com/ebook/"
     },
     {
@@ -70,7 +61,7 @@
       "Previous position": "",
       "Search Volume": "50",
       "CPC": "8.53",
-      "Traffic (%)": "0.48",
+      "Traffic (%)": "0.49",
       "URL": "https://cmsprime.com/blogs/currency-pairs/"
     },
     {
@@ -79,7 +70,7 @@
       "Previous position": "",
       "Search Volume": "70",
       "CPC": "2.89",
-      "Traffic (%)": "0.48",
+      "Traffic (%)": "0.49",
       "URL": "https://cmsprime.com/blogs/best-trading-sessions-uae/"
     },
     {
@@ -210,30 +201,57 @@
     },
     {
       "Keyword": "cms login",
-      "Position": "40",
+      "Position": "5",
       "Previous position": "",
-      "Search Volume": "90",
+      "Search Volume": "110",
+      "CPC": "0.00",
+      "Traffic (%)": "0.00",
+      "URL": "https://mycms.cmsprime.com/login"
+    },
+    {
+      "Keyword": "cms login",
+      "Position": "24",
+      "Previous position": "",
+      "Search Volume": "110",
       "CPC": "0.00",
       "Traffic (%)": "0.00",
       "URL": "https://cmsprime.com/"
     },
     {
       "Keyword": "cms login",
-      "Position": "49",
+      "Position": "48",
       "Previous position": "",
-      "Search Volume": "90",
+      "Search Volume": "110",
       "CPC": "0.00",
       "Traffic (%)": "0.00",
       "URL": "https://mycms.cmsprime.com/ar/login?sl=1"
     },
     {
       "Keyword": "cms login",
-      "Position": "59",
+      "Position": "58",
       "Previous position": "",
-      "Search Volume": "90",
+      "Search Volume": "110",
       "CPC": "0.00",
       "Traffic (%)": "0.00",
-      "URL": "https://mycms.cmsprime.com/ar/login?sl=1"
+      "URL": "https://webtrader.cmsprime.com/web/login"
+    },
+    {
+      "Keyword": "cms login",
+      "Position": "63",
+      "Previous position": "",
+      "Search Volume": "110",
+      "CPC": "0.00",
+      "Traffic (%)": "0.00",
+      "URL": "https://cmsprime.com/mycmshub/"
+    },
+    {
+      "Keyword": "cms login",
+      "Position": "67",
+      "Previous position": "",
+      "Search Volume": "110",
+      "CPC": "0.00",
+      "Traffic (%)": "0.00",
+      "URL": "https://cmsprime.com/app-platform/"
     },
     {
       "Keyword": "cms",
@@ -245,6 +263,15 @@
       "URL": "https://cmsprime.com/mycmshub/"
     },
     {
+      "Keyword": "what is leverage in forex",
+      "Position": "9",
+      "Previous position": "",
+      "Search Volume": "140",
+      "CPC": "4.44",
+      "Traffic (%)": "0.00",
+      "URL": "https://cmsprime.com/blogs/forex-leverage-explained/"
+    },
+    {
       "Keyword": "cms group of companies",
       "Position": "43",
       "Previous position": "",
@@ -254,6 +281,15 @@
       "URL": "https://cmsprime.com/"
     },
     {
+      "Keyword": "market sessions",
+      "Position": "8",
+      "Previous position": "",
+      "Search Volume": "30",
+      "CPC": "2.39",
+      "Traffic (%)": "0.00",
+      "URL": "https://cmsprime.com/blogs/best-trading-sessions-uae/"
+    },
+    {
       "Keyword": "social trading",
       "Position": "26",
       "Previous position": "",
@@ -261,6 +297,60 @@
       "CPC": "5.06",
       "Traffic (%)": "0.00",
       "URL": "https://cmsprime.com/social-trading/"
+    },
+    {
+      "Keyword": "cms com",
+      "Position": "8",
+      "Previous position": "",
+      "Search Volume": "40",
+      "CPC": "0.00",
+      "Traffic (%)": "0.00",
+      "URL": "https://cmsprime.com/"
+    },
+    {
+      "Keyword": "cms com",
+      "Position": "36",
+      "Previous position": "",
+      "Search Volume": "40",
+      "CPC": "0.00",
+      "Traffic (%)": "0.00",
+      "URL": "https://mycms.cmsprime.com/ar/login?sl=1"
+    },
+    {
+      "Keyword": "cms com",
+      "Position": "54",
+      "Previous position": "",
+      "Search Volume": "40",
+      "CPC": "0.00",
+      "Traffic (%)": "0.00",
+      "URL": "https://mycms.cmsprime.com/login"
+    },
+    {
+      "Keyword": "cms com",
+      "Position": "62",
+      "Previous position": "",
+      "Search Volume": "40",
+      "CPC": "0.00",
+      "Traffic (%)": "0.00",
+      "URL": "https://cmsprime.com/mycmshub/"
+    },
+    {
+      "Keyword": "cms com",
+      "Position": "67",
+      "Previous position": "",
+      "Search Volume": "40",
+      "CPC": "0.00",
+      "Traffic (%)": "0.00",
+      "URL": "https://cmsprime.com/app-platform/"
+    },
+    {
+      "Keyword": "cms com",
+      "Position": "71",
+      "Previous position": "",
+      "Search Volume": "40",
+      "CPC": "0.00",
+      "Traffic (%)": "0.00",
+      "URL": "https://cmsprime.com/about-us/"
     },
     {
       "Keyword": "cms logistics",
