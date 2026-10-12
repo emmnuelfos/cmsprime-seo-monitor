@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-12",
   "rows": [
     {
       "URL": "https://cmsprime.com/",
       "HTTP": "200",
-      "Fetch (s)": 0.08,
+      "Fetch (s)": 1.04,
       "Size (KB)": 511,
       "Title length": 59,
       "Desc length": 140,
@@ -22,8 +22,8 @@
     {
       "URL": "https://cmsprime.com/metatrader-4/",
       "HTTP": "200",
-      "Fetch (s)": 0.08,
-      "Size (KB)": 393,
+      "Fetch (s)": 1.12,
+      "Size (KB)": 394,
       "Title length": 53,
       "Desc length": 119,
       "Canonical OK": "Y",
@@ -40,7 +40,7 @@
     {
       "URL": "https://cmsprime.com/online-forex-trading/",
       "HTTP": "200",
-      "Fetch (s)": 0.08,
+      "Fetch (s)": 1.12,
       "Size (KB)": 411,
       "Title length": 60,
       "Desc length": 137,
@@ -58,8 +58,8 @@
     {
       "URL": "https://cmsprime.com/stock-cfds-trading/",
       "HTTP": "200",
-      "Fetch (s)": 0.08,
-      "Size (KB)": 374,
+      "Fetch (s)": 1.09,
+      "Size (KB)": 375,
       "Title length": 54,
       "Desc length": 126,
       "Canonical OK": "Y",
@@ -76,7 +76,7 @@
     {
       "URL": "https://cmsprime.com/ar/metatrader-4/",
       "HTTP": "200",
-      "Fetch (s)": 0.19,
+      "Fetch (s)": 1.14,
       "Size (KB)": 379,
       "Title length": 50,
       "Desc length": 122,
@@ -94,7 +94,7 @@
     {
       "URL": "https://cmsprime.com/fa/metatrader-4/",
       "HTTP": "200",
-      "Fetch (s)": 1.03,
+      "Fetch (s)": 1.15,
       "Size (KB)": 378,
       "Title length": 51,
       "Desc length": 154,
