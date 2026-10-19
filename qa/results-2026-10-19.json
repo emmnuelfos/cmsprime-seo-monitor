@@ -1,0 +1,176 @@
+{
+  "run_at": "2026-10-19 16:21 UTC",
+  "summary": {
+    "PASS": 20,
+    "FAIL": 1,
+    "WARN": 2
+  },
+  "total_checks": 23,
+  "unexpected_fails": 1,
+  "known_pending": [],
+  "first_failure": "redirects: 3/8 ok; failures: /cfds-trading -> [404]  (expected /stock-cfds-trading/); /promo -> [404]  (expected /); /register -> [404]  (expected /)",
+  "overall_state": "fail",
+  "all_results": [
+    {
+      "check": "hreflang_https://cmsprime.com/",
+      "status": "PASS",
+      "detail": "4 langs present: en-US, ar, fa-IR, x-default",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "hreflang_https://cmsprime.com/ar/",
+      "status": "PASS",
+      "detail": "4 langs present: en-US, ar, fa-IR, x-default",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "hreflang_https://cmsprime.com/fa/",
+      "status": "PASS",
+      "detail": "4 langs present: en-US, ar, fa-IR, x-default",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "org_schema_type",
+      "status": "PASS",
+      "detail": "dual-type confirmed: ['Organization', 'FinancialService']",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "org_schema_credentials",
+      "status": "PASS",
+      "detail": "3 credentials: Financial Services Commission of Mauritius, Saint Vincent and the Grenadines, Saint Lucia...",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "org_schema_foundingDate",
+      "status": "PASS",
+      "detail": "foundingDate = 2004",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "org_schema_sameAs",
+      "status": "PASS",
+      "detail": "7 social profile links",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "org_schema_languages",
+      "status": "PASS",
+      "detail": "all 3 languages declared: ['en', 'ar', 'fa']",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "org_schema_contactPoint",
+      "status": "PASS",
+      "detail": "5 contact points",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "faq_schema_present",
+      "status": "PASS",
+      "detail": "11 / 11 pages: /metatrader-4/ (7 Qs), /metatrader-5/ (7 Qs), /online-forex-trading/ (11 Qs)...",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "redirects",
+      "status": "FAIL",
+      "detail": "3/8 ok; failures: /cfds-trading -> [404]  (expected /stock-cfds-trading/); /promo -> [404]  (expected /); /register -> [404]  (expected /)",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "redirects_query_strings",
+      "status": "WARN",
+      "detail": "URLs with query strings (e.g. ?utm_source=) return HTTP 404 instead of 301 - any old backlink with tracking params 404s. Fix candidate for Phase 3: add [QSA] flag to .htaccess rules or update Redirection plugin to handle query strings.",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "robots_txt",
+      "status": "PASS",
+      "detail": "User-agent + Sitemap directives present; sitemap = https://cmsprime.com/sitemap_index.xml",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "sitemap_index",
+      "status": "PASS",
+      "detail": "sitemap_index.xml lists 6 sub-sitemaps",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "uptime_https://cmsprime.com/",
+      "status": "PASS",
+      "detail": "HTTP 200 in 0.45s",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "uptime_https://cmsprime.com/ar/",
+      "status": "PASS",
+      "detail": "HTTP 200 in 0.96s",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "uptime_https://cmsprime.com/fa/",
+      "status": "PASS",
+      "detail": "HTTP 200 in 1.05s",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "uptime_https://cmsprime.com/metatrader-4/",
+      "status": "PASS",
+      "detail": "HTTP 200 in 0.48s",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "uptime_https://cmsprime.com/online-forex-trading/",
+      "status": "PASS",
+      "detail": "HTTP 200 in 0.50s",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "uptime_https://cmsprime.com/prop-trading/",
+      "status": "PASS",
+      "detail": "HTTP 200 in 0.44s",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "uptime_https://cmsprime.com/account-comparison/",
+      "status": "PASS",
+      "detail": "HTTP 200 in 0.39s",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "uptime_https://cmsprime.com/licenses-regulations/",
+      "status": "PASS",
+      "detail": "HTTP 200 in 0.40s",
+      "expected": null,
+      "found": null
+    },
+    {
+      "check": "dashboard_data_files",
+      "status": "WARN",
+      "detail": "0/6 reachable; 6 missing",
+      "expected": null,
+      "found": null
+    }
+  ]
+}
