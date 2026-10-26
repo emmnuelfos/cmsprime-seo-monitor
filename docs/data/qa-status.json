@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-10-19 16:21 UTC",
+  "run_at": "2026-10-26 16:01 UTC",
   "summary": {
     "PASS": 20,
     "FAIL": 1,
@@ -112,56 +112,56 @@
     {
       "check": "uptime_https://cmsprime.com/",
       "status": "PASS",
-      "detail": "HTTP 200 in 0.45s",
+      "detail": "HTTP 200 in 0.59s",
       "expected": null,
       "found": null
     },
     {
       "check": "uptime_https://cmsprime.com/ar/",
       "status": "PASS",
-      "detail": "HTTP 200 in 0.96s",
+      "detail": "HTTP 200 in 1.18s",
       "expected": null,
       "found": null
     },
     {
       "check": "uptime_https://cmsprime.com/fa/",
       "status": "PASS",
-      "detail": "HTTP 200 in 1.05s",
+      "detail": "HTTP 200 in 1.06s",
       "expected": null,
       "found": null
     },
     {
       "check": "uptime_https://cmsprime.com/metatrader-4/",
       "status": "PASS",
-      "detail": "HTTP 200 in 0.48s",
+      "detail": "HTTP 200 in 0.57s",
       "expected": null,
       "found": null
     },
     {
       "check": "uptime_https://cmsprime.com/online-forex-trading/",
       "status": "PASS",
-      "detail": "HTTP 200 in 0.50s",
+      "detail": "HTTP 200 in 0.55s",
       "expected": null,
       "found": null
     },
     {
       "check": "uptime_https://cmsprime.com/prop-trading/",
       "status": "PASS",
-      "detail": "HTTP 200 in 0.44s",
+      "detail": "HTTP 200 in 0.56s",
       "expected": null,
       "found": null
     },
     {
       "check": "uptime_https://cmsprime.com/account-comparison/",
       "status": "PASS",
-      "detail": "HTTP 200 in 0.39s",
+      "detail": "HTTP 200 in 0.50s",
       "expected": null,
       "found": null
     },
     {
       "check": "uptime_https://cmsprime.com/licenses-regulations/",
       "status": "PASS",
-      "detail": "HTTP 200 in 0.40s",
+      "detail": "HTTP 200 in 0.48s",
       "expected": null,
       "found": null
     },
