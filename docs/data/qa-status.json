@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-09 19:40 UTC",
+  "run_at": "2026-11-16 19:27 UTC",
   "summary": {
     "PASS": 20,
     "FAIL": 1,
@@ -105,63 +105,63 @@
     {
       "check": "sitemap_index",
       "status": "PASS",
-      "detail": "sitemap_index.xml lists 6 sub-sitemaps",
+      "detail": "sitemap_index.xml lists 5 sub-sitemaps",
       "expected": null,
       "found": null
     },
     {
       "check": "uptime_https://cmsprime.com/",
       "status": "PASS",
-      "detail": "HTTP 200 in 0.92s",
+      "detail": "HTTP 200 in 0.98s",
       "expected": null,
       "found": null
     },
     {
       "check": "uptime_https://cmsprime.com/ar/",
       "status": "PASS",
-      "detail": "HTTP 200 in 1.16s",
+      "detail": "HTTP 200 in 0.97s",
       "expected": null,
       "found": null
     },
     {
       "check": "uptime_https://cmsprime.com/fa/",
       "status": "PASS",
-      "detail": "HTTP 200 in 1.29s",
+      "detail": "HTTP 200 in 1.15s",
       "expected": null,
       "found": null
     },
     {
       "check": "uptime_https://cmsprime.com/metatrader-4/",
       "status": "PASS",
-      "detail": "HTTP 200 in 0.71s",
+      "detail": "HTTP 200 in 0.60s",
       "expected": null,
       "found": null
     },
     {
       "check": "uptime_https://cmsprime.com/online-forex-trading/",
       "status": "PASS",
-      "detail": "HTTP 200 in 0.82s",
+      "detail": "HTTP 200 in 0.74s",
       "expected": null,
       "found": null
     },
     {
       "check": "uptime_https://cmsprime.com/prop-trading/",
       "status": "PASS",
-      "detail": "HTTP 200 in 0.63s",
+      "detail": "HTTP 200 in 0.54s",
       "expected": null,
       "found": null
     },
     {
       "check": "uptime_https://cmsprime.com/account-comparison/",
       "status": "PASS",
-      "detail": "HTTP 200 in 0.66s",
+      "detail": "HTTP 200 in 0.54s",
       "expected": null,
       "found": null
     },
     {
       "check": "uptime_https://cmsprime.com/licenses-regulations/",
       "status": "PASS",
-      "detail": "HTTP 200 in 0.58s",
+      "detail": "HTTP 200 in 0.50s",
       "expected": null,
       "found": null
     },

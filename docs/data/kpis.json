@@ -487,7 +487,31 @@
       "pages_with_credentials": 5,
       "avg_imgs_no_dims": 136,
       "semrush_error": "ERROR 403 :: ERROR 132 :: API UNITS BALANCE IS ZERO"
+    },
+    {
+      "date": "2026-11-16",
+      "sitemap_en_count": 289,
+      "sitemap_ar_count": 194,
+      "sitemap_fa_count": 205,
+      "phantom_301s_ok": 10,
+      "phantom_301s_total": 10,
+      "pages_sampled": 6,
+      "avg_fetch_time_s": 0.7,
+      "avg_html_kb": 443,
+      "pages_with_hreflang_3plus": 6,
+      "pages_with_org_schema": 6,
+      "pages_with_credentials": 5,
+      "avg_imgs_no_dims": 136,
+      "semrush_organic_kw_ae": 77,
+      "semrush_organic_traffic_ae": 468,
+      "semrush_rank_ae": 49218,
+      "semrush_total_backlinks": 14070,
+      "semrush_referring_domains": 4051,
+      "semrush_ascore": 26,
+      "semrush_follow_links": 9129,
+      "semrush_nofollow_links": 4920,
+      "semrush_units_used": 4550
     }
   ],
-  "updated": "2026-11-09"
+  "updated": "2026-11-16"
 }
