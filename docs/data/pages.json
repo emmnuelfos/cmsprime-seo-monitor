@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-23",
   "rows": [
     {
       "URL": "https://cmsprime.com/",
       "HTTP": "200",
-      "Fetch (s)": 0.12,
-      "Size (KB)": 616,
+      "Fetch (s)": 0.22,
+      "Size (KB)": 622,
       "Title length": 59,
       "Desc length": 140,
       "Canonical OK": "Y",
@@ -15,15 +15,15 @@
       "Credentials": "Y",
       "RB CSS in head": 20,
       "RB JS in head": 2,
-      "Total images": 324,
-      "Images no dims": 274,
-      "Images no lazy": 126
+      "Total images": 344,
+      "Images no dims": 304,
+      "Images no lazy": 135
     },
     {
       "URL": "https://cmsprime.com/metatrader-4/",
       "HTTP": "200",
-      "Fetch (s)": 0.24,
-      "Size (KB)": 409,
+      "Fetch (s)": 0.25,
+      "Size (KB)": 401,
       "Title length": 53,
       "Desc length": 119,
       "Canonical OK": "Y",
@@ -33,15 +33,15 @@
       "Credentials": "Y",
       "RB CSS in head": 32,
       "RB JS in head": 3,
-      "Total images": 30,
-      "Images no dims": 2,
-      "Images no lazy": 0
+      "Total images": 34,
+      "Images no dims": 10,
+      "Images no lazy": 3
     },
     {
       "URL": "https://cmsprime.com/online-forex-trading/",
       "HTTP": "200",
-      "Fetch (s)": 0.28,
-      "Size (KB)": 452,
+      "Fetch (s)": 0.35,
+      "Size (KB)": 444,
       "Title length": 60,
       "Desc length": 137,
       "Canonical OK": "Y",
@@ -51,15 +51,15 @@
       "Credentials": "Y",
       "RB CSS in head": 31,
       "RB JS in head": 3,
-      "Total images": 308,
-      "Images no dims": 274,
-      "Images no lazy": 126
+      "Total images": 312,
+      "Images no dims": 282,
+      "Images no lazy": 129
     },
     {
       "URL": "https://cmsprime.com/stock-cfds-trading/",
       "HTTP": "200",
-      "Fetch (s)": 0.27,
-      "Size (KB)": 414,
+      "Fetch (s)": 0.37,
+      "Size (KB)": 406,
       "Title length": 54,
       "Desc length": 126,
       "Canonical OK": "Y",
@@ -69,15 +69,15 @@
       "Credentials": "Y",
       "RB CSS in head": 31,
       "RB JS in head": 3,
-      "Total images": 296,
-      "Images no dims": 262,
-      "Images no lazy": 120
+      "Total images": 300,
+      "Images no dims": 270,
+      "Images no lazy": 123
     },
     {
       "URL": "https://cmsprime.com/ar/metatrader-4/",
       "HTTP": "200",
-      "Fetch (s)": 0.97,
-      "Size (KB)": 384,
+      "Fetch (s)": 0.84,
+      "Size (KB)": 376,
       "Title length": 50,
       "Desc length": 122,
       "Canonical OK": "Y",
@@ -87,15 +87,15 @@
       "Credentials": "Y",
       "RB CSS in head": 33,
       "RB JS in head": 3,
-      "Total images": 15,
-      "Images no dims": 1,
-      "Images no lazy": 8
+      "Total images": 17,
+      "Images no dims": 5,
+      "Images no lazy": 11
     },
     {
       "URL": "https://cmsprime.com/fa/metatrader-4/",
       "HTTP": "200",
-      "Fetch (s)": 2.31,
-      "Size (KB)": 382,
+      "Fetch (s)": 1.14,
+      "Size (KB)": 375,
       "Title length": 51,
       "Desc length": 139,
       "Canonical OK": "Y",
@@ -105,9 +105,9 @@
       "Credentials": "N",
       "RB CSS in head": 34,
       "RB JS in head": 3,
-      "Total images": 15,
-      "Images no dims": 1,
-      "Images no lazy": 8
+      "Total images": 17,
+      "Images no dims": 5,
+      "Images no lazy": 11
     }
   ]
 }
